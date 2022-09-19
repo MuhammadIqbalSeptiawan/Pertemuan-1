@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663593615 source:c:\users\lenovo\documents\daspro\daspro\main.cpp
+	<iostream>
+	<stdio.h>
+
